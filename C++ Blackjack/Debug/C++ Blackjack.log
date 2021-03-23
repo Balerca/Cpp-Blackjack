@@ -1,0 +1,3 @@
+﻿  C++ Blackjack.cpp
+C:\Users\octym\source\repos\C++ Blackjack\C++ Blackjack\C++ Blackjack.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  C++ Blackjack.vcxproj -> C:\Users\octym\source\repos\C++ Blackjack\Debug\C++ Blackjack.exe
